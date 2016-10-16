@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "2eac116918562eb54d0af4b6ee7e3b6b",
+    "pageAccessToken": "EAAX4cWHGOmsBAKb6nCCRD42u7Uhj0jPmZC0dHtDz4NCIjJFaZBE358glDZBK5QwHG6rNNcmfngWDhQiZABfGdOBOWLpJV4RP7y54BFFqopeZAgITtWJnGcIO8jJVBROJCkmrz8NQw5TFFwEWT8BsMOTjk8ZAJ34kn3dcuxCAHfbQZDZD",
+    "validationToken": "N0v0P4ym3nt",
+    "serverURL": "https://np-bot-demo1.herokuapp.com/"
 }
