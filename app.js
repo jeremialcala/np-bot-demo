@@ -196,7 +196,7 @@ function receivedAuthentication(event) {
     "through param '%s' at %d", senderID, recipientID, passThroughParam,
     timeOfAuth);
 
-  console.log("Give me everything", event.sender);
+  console.log("Give me everything", event);
 
   // When an authentication is received, we'll send a message back to the sender
   // to let them know it was successful.
